@@ -1,5 +1,4 @@
 # food-delivery-mgmt-system
-FOOD DELIVERY MANAGEMENT SYSTEM
 The food delivery management system is a relational database application run on Netbeans IDE which allows customers, restaurants and delivery personnel to coordinate and successfully place and deliver orders in an efficient manner.
 
 TABLE OF CONTENTS
